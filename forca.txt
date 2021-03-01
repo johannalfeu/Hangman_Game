@@ -1,0 +1,12 @@
+escola
+jardim
+carro
+gato
+cachorro
+computador
+telefone
+calculadora
+chuveiro
+piscina
+abajur
+jogo
